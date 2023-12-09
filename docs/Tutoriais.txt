@@ -1,0 +1,11 @@
+Pillow:
+    * https://pillow.readthedocs.io/en/stable/index.html
+    * https://pillow.readthedocs.io/en/stable/handbook/tutorial.html
+
+Exemplos:
+    * https://code-maven.com/create-images-with-python-pil-pillow
+    * https://www.geeksforgeeks.org/adding-text-on-image-using-python-pil/
+
+Fontes:
+    * https://www.dafont.com/pt/
+    * https://www.netfontes.com.br/
